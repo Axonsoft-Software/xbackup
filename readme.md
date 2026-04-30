@@ -107,11 +107,11 @@ Eine falsche Verwendung kann dazu führen, dass ein Gerät zurückgesetzt oder D
 
 ---
 
-## Systemanforderungen
+# Systemanforderungen
 
 | Komponente | Voraussetzung |
 |---|---|
-| Betriebssystem | macOS |
+| Betriebssystem | macOS 26.5 optimiert |
 | Prozessor | Apple Silicon |
 | Intel-Macs | Nicht unterstützt |
 | Gerät | iPhone |
